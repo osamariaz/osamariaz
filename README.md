@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm Osama Riaz👋
 
 # 💫 About Me:
 I’m a DevOps Engineer with a passion for automation, cloud technologies, and building scalable infrastructure. With hands-on experience in CI/CD, Infrastructure as Code (IaC), Linux administration, and containerization, I love optimizing workflows and enhancing system reliability.<br><br>🔧 Tech Stack:<br><br>CI/CD: Jenkins, GitHub Actions, Bitbucket Pipelines<br>IaC & Config Management: Terraform, Ansible<br>Monitoring & Logging: Nagios<br>Containerization & Orchestration: Docker, Kubernetes<br>Cloud: AWS (EC2, S3, VPC, ECS, API Gateway)<br>Scripting: Bash, Python<br>Version Control: Git, GitHub, Bitbucket<br>🌱 Currently Learning: Kubernetes & Terraform 🚀<br>💡 Looking for: Hands-on DevOps projects & Open-source contributions<br><br>📌 Featured Projects<br>📨 Gmail Extractor with AI Optimization – Automated email processing with OpenAI integration<br>🔒 SAST: OWASP TOP 10-Based Cybersecurity Platform – Gamified security learning using Docker-based environments<br>📫 Let's Connect!<br>💼 https://www.linkedin.com/in/osama-riaz/
